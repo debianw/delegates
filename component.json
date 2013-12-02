@@ -2,11 +2,11 @@
   "name": "delegates",
   "repo": "component/delegates",
   "description": "Higher level dom event delegation management",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": ["event", "events", "subscriptions", "delegate", "delegation"],
   "dependencies": {
-    "debianw/delegate": "0.1.0",
-    "debianw/event-manager": "1.0.0",
+    "component/delegate": "0.2.1",
+    "component/event-manager": "1.0.0",
     "component/inherit": "0.0.2"
   },
   "development": {},
